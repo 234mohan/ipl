@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.container2 {
+  background-image: linear-gradient(to bottom, #a4261d, #1e293b);
+  height: 100vh;
+  width: 100vw;
+  padding: 30px;
+}
+.imageurl {
+  height: 400px;
+  width: 900px;
+}

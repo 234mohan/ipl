@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.image {
+  height: 50px;
+  width: 50px;
+}
+.container-row {
+  height: 200vh;
+  width: 100vw;
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  background-size: cover;
+  text-align: center;
+  padding: 30px;
+}
+.lists {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.heading-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.hea {
+  color: white;
+  font-family: 'Bree Serif';
+  font-size: 40px;
+  margin-left: 20px;
+}

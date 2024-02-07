@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.container {
+  background-color: transparent;
+  height: 200px;
+  width: 400px;
+  border: 2px solid white;
+  margin: 20px;
+  border-radius: 10px;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.imageu {
+  height: 100px;
+  width: 100px;
+}
+.list {
+  list-style-type: none;
+}
+.heading {
+  font-size: 20px;
+  font-family: 'Bree Serif';
+  margin-left: 10px;
+  color: white;
+  width: 150px;
+}
